@@ -7,4 +7,6 @@ You can signal your interest in finding collaborators by adding your relevant in
 
 All of this is optional &mdash; to submit an entry for the prize, it is neither necessary nor sufficient to participate here.
 
-Submissions of entries for the prize have to be made through the Open Science Prize platform by February 29, 2016. To do that, you will need to register an account [there](https://www.openscienceprize.org/acc/r/).
+The Prize has two phases &mdash; six prizes of USD 80k each will be awarded in Phase 1, and from these six projects, one will be selected to receive USD 230k in Phase 2.
+
+Entries for the prize have to be submitted through the Open Science Prize platform. To do that, you will need to register an account [there](https://www.openscienceprize.org/acc/r/). Phase 1 submissions are due by February 29, 2016.
