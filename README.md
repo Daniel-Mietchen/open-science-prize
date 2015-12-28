@@ -1,7 +1,7 @@
 # About
 This repository is intended to help interested parties find collaborators for the [Open Science Prize](https://www.openscienceprize.org/), which aims to stimulate the development of new products or services to harness the power of "big data" to improve health.
 
-Eligible teams must be a collaboration of a U.S. and an international partner.
+Eligible teams must be a collaboration of a U.S. and a non-U.S. partner.
 
 You can signal your interest in finding collaborators by adding your relevant information to [this TSV file](https://github.com/Daniel-Mietchen/open-science-prize/blob/master/collaboration.tsv) (and issuing a new pull request for that). In case of problems, please [open a new issue](https://github.com/Daniel-Mietchen/open-science-prize/issues/new) or ping me [on Twitter](https://twitter.com/EvoMRI). You are also encouraged to tweet your intention to collaborate, preferably using the [#openscienceprize](https://twitter.com/hashtag/openscienceprize?f=tweets) hashtag.
 
