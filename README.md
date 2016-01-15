@@ -3,7 +3,7 @@ This repository is intended to help interested parties find collaborators for th
 
 Eligible teams must be a collaboration of a U.S. and a non-U.S. partner.
 
-You can signal your interest in finding collaborators by adding your relevant information to [this TSV file](https://github.com/Daniel-Mietchen/open-science-prize/blob/master/collaboration.tsv) (and issuing a new pull request for that). In case of problems, please [open a new issue](https://github.com/Daniel-Mietchen/open-science-prize/issues/new) or ping me [on Twitter](https://twitter.com/EvoMRI). You are also encouraged to tweet your intention to collaborate, preferably using the [#openscienceprize](https://twitter.com/hashtag/openscienceprize?f=tweets) hashtag.
+You can signal your interest in finding collaborators by adding your relevant information to [this  file](https://github.com/Daniel-Mietchen/open-science-prize/blob/master/collaboration.tsv) and issuing a new pull request for that. It is in [TSV](https://en.wikipedia.org/wiki/Tab-separated_values) format, which [renders](https://help.github.com/articles/rendering-csv-and-tsv-data/) nicely here on GitHub. In case of problems, please [open a new issue](https://github.com/Daniel-Mietchen/open-science-prize/issues/new) or ping me [on Twitter](https://twitter.com/EvoMRI). You are also encouraged to tweet your intention to collaborate, preferably using the [#openscienceprize](https://twitter.com/hashtag/openscienceprize?f=tweets) hashtag.
 
 All of this is optional &mdash; to submit an entry for the prize, it is neither necessary nor sufficient to participate here.
 
