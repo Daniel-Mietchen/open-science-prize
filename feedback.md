@@ -19,5 +19,5 @@ This file serves to collect _public_ feedback on the Open Science Prize. If you 
 # Selection process
 
 # Anything else
-1. Would be happy to shake hands and collaborate with other teams beyond the prize too. Where to find the whole list and contacts? @RomanGurinovich
+1. Would be happy to shake hands and collaborate with other teams beyond the prize too. Where to find the whole list and contacts? [@RomanGurinovich](https://github.com/RomanGurinovich)
 
