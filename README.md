@@ -1,4 +1,7 @@
-# About
+# Update (March 2016)
+The submission deadline for Phase I of the Prize has now passed, and the submissions are being reviewed. Feedback on the process so far is being collected [here](https://github.com/Daniel-Mietchen/open-science-prize/blob/master/feedback.md).
+
+# About (original text, not updated)
 This repository is intended to help interested parties find collaborators for the [Open Science Prize](https://www.openscienceprize.org/), an initiative by the [Wellcome Trust](http://www.wellcome.ac.uk/), the [US National Institutes of Health (NIH)](http://nih.gov/) and the [Howard Hughes Medical Institute](http://www.hhmi.org/) that aims to stimulate the development of new products or services to harness the power of "big data" to improve health.
 
 Eligible teams must be a collaboration of a U.S. and a non-U.S. partner.
