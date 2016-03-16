@@ -20,5 +20,5 @@ This file serves to collect _public_ feedback on the Open Science Prize. If you 
 
 # Anything else
 1. Would be happy to shake hands and collaborate with other teams beyond the prize too. Where to find the whole list and contacts? [@RomanGurinovich](https://github.com/RomanGurinovich)
-2. When contacting proponents use a foobar@openscienceprize.org email address, especially when asking for details from people that are not public. [@betatim](https://betatim.github.io)
+2. When contacting proponents, use a foobar@openscienceprize.org email address, especially when asking for details from people that are not public. [@betatim](https://betatim.github.io)
 
