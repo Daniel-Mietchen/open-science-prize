@@ -1,6 +1,6 @@
 # Update (February 2017)
 
-The winner of phase 2 has been [announced](https://www.nih.gov/news-events/news-releases/open-science-prize-announces-epidemic-tracking-tool-grand-prize-winner): http://nextstrain.org/ . Feedback on the prize is still [welcome](https://github.com/Daniel-Mietchen/open-science-prize/blob/master/feedback.md).
+The winner of phase 2 has been [announced](https://www.nih.gov/news-events/news-releases/open-science-prize-announces-epidemic-tracking-tool-grand-prize-winner): http://nextstrain.org/ . Feedback on all aspects of the prize (organization, scope, rules, timing, prize numbers and amounts etc.) is still [welcome](https://github.com/Daniel-Mietchen/open-science-prize/blob/master/feedback.md).
 
 # Update (May 2016)
 
