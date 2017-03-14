@@ -18,3 +18,7 @@ Note that posting or drafting the full proposal in public was not a requirement 
 1. [Roadmap: A Research Data Management Advisory Platform](https://doi.org/10.3897/rio.2.e8649)
 1. [SCINDR - The SCience INtroDuction Robot that will Connect Open Scientists](https://doi.org/10.3897/rio.2.e9995)
 1. [Thinklab: A platform for open review of research grant proposals](https://thinklab.com/p/thinklabOSP)
+
+# See also
+
+* [Get crowdsourced feedback for your Open Science Prize application](https://thinklab.com/blog/get-crowdsourced-feedback-for-your-open-science-prize-application/135)
